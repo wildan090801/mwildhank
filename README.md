@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Wildhan Kusumawardana**. 👨🏻‍💻
 
-Saya seorang **Mahasiswa** di [Universitas Pasundan](http://www.unpas.ac.id/). 📚
+Saya seorang **Fresh Graduate** di [Universitas Pasundan](http://www.unpas.ac.id/). 📚
 
 Saya sangat tertarik dalam dunia Mobile Apps Programming (iOS, Android, MultiPlatform). 📱
 
